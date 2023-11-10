@@ -2,10 +2,6 @@
 ### About me
   Tenho 19 anos, sou estudante de Desenvolvimento Web e eu amo jogos e tecnologias.
 
-<p>
-   <strong>Estou participando de um Bootcamp FullStack neste momento</strong>
-</p>
-
 ### My networks
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacribeiro/) 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna_sntg0)
@@ -34,5 +30,4 @@
 
 <div style=" display: inline_block">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
