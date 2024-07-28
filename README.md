@@ -1,6 +1,6 @@
 ### Hi, my name is Bruna Carla 👻
 ### About me
-  Tenho 19 anos, sou estudante de Desenvolvimento Web e eu amo jogos e tecnologias.
+  Tenho 20 anos, sou estudante de Desenvolvimento Web e eu amo jogos e tecnologias.
 
 ### My networks
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacribeiro/) 
