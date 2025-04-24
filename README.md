@@ -1,15 +1,15 @@
-### Hi, my name is Bruna Carla 👻
-### About me
-  Tenho 20 anos, sou estudante de Desenvolvimento Fullstack em Python e eu amo jogos e tecnologias.
+### Olá, me chamo Bruna Carla 🖐️
+### Sobre mim
+Tenho 20 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou me especializando em Desenvolvimento Fullstack com Python. Sou apaixonada por tecnologia e jogos, e estou sempre buscando aprender mais e evoluir como desenvolvedora.
 
-### My networks
+### Minhas redes:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacribeiro/) 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna_sntg0)
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagobruna&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagobruna&hide_progress=false)
-### My skills:
+### Minhas skills:
 
 <div style=" display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,7 @@
       
 </div>
 
-### Other knowledges
+### Outros conhecimentos:
 <div style=" display: inline_block">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
      <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
@@ -32,7 +32,9 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
     <img align="center" alt="styledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/><br><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
 </div>
 
 ### Studying in this moment:
