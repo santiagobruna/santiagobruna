@@ -1,6 +1,6 @@
 ### Olá, me chamo Bruna Carla 🖐️
 ### Sobre mim
-Tenho 20 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou me especializando em Desenvolvimento Fullstack com Python. Sou apaixonada por tecnologia e jogos, e estou sempre buscando aprender mais e evoluir como desenvolvedora.
+Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou me especializando em Desenvolvimento Fullstack com Python. Sou apaixonada por tecnologia e jogos, e estou sempre buscando aprender mais e evoluir como desenvolvedora.
 
 ### Minhas redes:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacribeiro/) 
