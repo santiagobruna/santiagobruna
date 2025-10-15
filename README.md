@@ -4,7 +4,7 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualment
 
 ### Minhas redes:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacribeiro/) 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna_sntg0)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna_dev77)
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagobruna&show_icons=true&theme=synthwave)
 
@@ -35,6 +35,11 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualment
     <br><br>
     <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img align="center" alt="postgreSql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img align="center" alt="postgreSql" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+    <img align="center" alt="postgreSql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img align="center" alt="postgreSql" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img align="center" alt="postgreSql" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    
 
 </div>
 
@@ -42,4 +47,6 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas e atualment
 
 <div style=" display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+          
 </div>
