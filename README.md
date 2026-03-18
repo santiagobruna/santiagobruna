@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
@@ -19,19 +19,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="center">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Olá! Me chamo Bruna. 👋<br>Sou estudante de Engenharia de Software e formada em Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estou me aprofundando em metodologias ágeis durante minha pós-graduação na PUC Minas, além de expandir meus conhecimentos em desenvolvimento back-end com NestJS e Java. Tenho grande interesse em tecnologia e estou sempre buscando evoluir minhas habilidades e aprender novas ferramentas.<br><br>No meu tempo livre, gosto de ouvir música e estudar inglês, mantendo uma rotina de aprendizado contínuo tanto pessoal quanto profissional.</p>
+<p align="center">Olá! Sou estudante de Engenharia de Software e formada em Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estou me aprofundando em metodologias ágeis durante minha pós-graduação na PUC Minas, além de expandir meus conhecimentos em desenvolvimento back-end com NestJS e Java. Tenho grande interesse em tecnologia e estou sempre buscando evoluir minhas habilidades e aprender novas ferramentas.<br><br>No meu tempo livre, gosto de ouvir música e estudar inglês, mantendo uma rotina de aprendizado contínuo tanto pessoal quanto profissional.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
@@ -63,7 +63,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
