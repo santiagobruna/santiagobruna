@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h3 align="center">👩🏼‍💻Bruna Santiago - Desenvolvedora Front-end</h3>
+<h3 align="center">👩🏼‍💻Bruna Santiago - Desenvolvedora Fullstak</h3>
 
 ###
 
