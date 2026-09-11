@@ -29,7 +29,7 @@
   <br><br>
   Tenho experiência no desenvolvimento de aplicações web e mobile, atuando na construção de interfaces, funcionalidades, integrações com APIs REST, autenticação, gerenciamento de estado, banco de dados e otimização de performance.
   <br><br>
-  Minha experiência inclui tecnologias como React, Next.js, TypeScript, JavaScript, React Native, Node.js, NestJS, C#, .NET, PostgreSQL e Prisma. Também venho aprofundando conhecimentos em arquitetura de software, testes, microsserviços, cloud computing, DevOps e segurança.
+  Minha experiência inclui tecnologias como React, Next.js, TypeScript, JavaScript, React Native, Node.js, NestJS e Prisma. Também venho aprofundando conhecimentos em arquitetura de software, testes, microsserviços, cloud computing, DevOps e segurança.
   <br><br>
   Gosto de entender o produto como um todo e transformar requisitos em soluções bem estruturadas, buscando equilibrar qualidade técnica, experiência do usuário e necessidades do negócio.
 </p>
@@ -55,10 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
@@ -70,8 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
@@ -83,7 +78,7 @@
 ###
 
 <p align="center">
-  Arquitetura de Software · Microsserviços · Cloud Computing · DevOps · Segurança · Testes · C# · .NET
+  Arquitetura de Software · Microsserviços · Cloud Computing · DevOps · Segurança · Testes · PHP
 </p>
 
 ###
