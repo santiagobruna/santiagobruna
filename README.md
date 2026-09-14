@@ -78,7 +78,7 @@
 ###
 
 <p align="center">
-  Arquitetura de Software · Microsserviços · Cloud Computing · DevOps · Segurança · Testes · PHP
+  Arquitetura de Software · Microsserviços · Cloud Computing · DevOps · Segurança · Testes · Java
 </p>
 
 ###
